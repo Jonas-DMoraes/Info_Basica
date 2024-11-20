@@ -9,12 +9,12 @@ def doutorado():
 
 
 def contribuicoes():
-    mensagem = "opularização dos computadores pessoais, Avanço da indústria de software,Soluções climáticas e agrícolas"
+    mensagem = ""
     return mensagem
 
 
 def artigos():
-    mensagem = "Bill Gates não é conhecido por publicar artigos acadêmicos, mas frequentemente escreve e compartilha análises, reflexões e ideias sobre tecnologia, filantropia, saúde pública e mudanças climáticas. Esses textos são publicados em seu blog oficial, Gates Notes"
+    mensagem = ""
     return mensagem
 
 
