@@ -1,5 +1,5 @@
 def resumo():
-    mensagem = "Bill Gates foi, por muitos anos, a pessoa mais rica do mundo, acumulando sua fortuna principalmente com o crescimento exponencial da Microsoft. Ele é frequentemente elogiado por sua visão empresarial e capacidade de antecipar você. Fundação da Microsoft (1975) :MS-DOS ,Windows."
+    mensagem = "Bill Gates foi, por muitos anos, a pessoa mais rica do mundo, acumulando sua fortuna principalmente com o crescimento exponencial da Microsoft"
     return mensagem
 
 
