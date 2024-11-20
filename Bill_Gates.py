@@ -4,12 +4,12 @@ def resumo():
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Bill Gates não possui doutorado formal"
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "As contribuições de Bill Gates abrangem a tecnologia, a filantropia e a transformação social. Ele é considerado uma figura chave no avanço tecnológico."
     return mensagem
 
 
