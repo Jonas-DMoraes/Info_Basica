@@ -14,12 +14,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Bill Gates não é conhecido por publicar artigos acadêmicos, mas frequentemente escreve e compartilha análises, reflexões e ideias sobre tecnologia, filantropia, saúde pública e mudanças climáticas. Esses textos são publicados em seu blog oficial, Gates Notes"
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "É genial festejar o sucesso, mas é mais importante aprender com as lições do fracasso"
     return mensagem
 
 
