@@ -1,15 +1,15 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Bill Gates foi, por muitos anos, a pessoa mais rica do mundo, acumulando sua fortuna principalmente com o crescimento exponencial da Microsoft. Ele é frequentemente elogiado por sua visão empresarial e capacidade de antecipar você. Fundação da Microsoft (1975) :MS-DOS ,Windows."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Bill Gates não possui doutorado formal"
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "As contribuições de Bill Gates abrangem a tecnologia, a filantropia e a transformação social. Ele é considerado uma figura chave no avanço tecnológico."
     return mensagem
 
 
