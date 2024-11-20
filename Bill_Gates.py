@@ -1,5 +1,5 @@
 def resumo():
-    mensagem = ""
+    mensagem = "Bill Gates foi, por muitos anos, a pessoa mais rica do mundo, acumulando sua fortuna principalmente com o crescimento exponencial da Microsoft"
     return mensagem
 
 
